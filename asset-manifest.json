@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sia-litian/sia-tech-blog/static/css/main.073c9b0a.css",
-    "main.js": "/sia-litian/sia-tech-blog/static/js/main.cfa7fabb.js",
-    "static/js/787.d8284650.chunk.js": "/sia-litian/sia-tech-blog/static/js/787.d8284650.chunk.js",
-    "static/media/logo.svg": "/sia-litian/sia-tech-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/sia-litian/sia-tech-blog/index.html",
-    "main.073c9b0a.css.map": "/sia-litian/sia-tech-blog/static/css/main.073c9b0a.css.map",
-    "main.cfa7fabb.js.map": "/sia-litian/sia-tech-blog/static/js/main.cfa7fabb.js.map",
-    "787.d8284650.chunk.js.map": "/sia-litian/sia-tech-blog/static/js/787.d8284650.chunk.js.map"
+    "main.css": "/sia-tech-blog/static/css/main.073c9b0a.css",
+    "main.js": "/sia-tech-blog/static/js/main.248b0f6d.js",
+    "static/js/787.d8284650.chunk.js": "/sia-tech-blog/static/js/787.d8284650.chunk.js",
+    "static/media/logo.svg": "/sia-tech-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sia-tech-blog/index.html",
+    "main.073c9b0a.css.map": "/sia-tech-blog/static/css/main.073c9b0a.css.map",
+    "main.248b0f6d.js.map": "/sia-tech-blog/static/js/main.248b0f6d.js.map",
+    "787.d8284650.chunk.js.map": "/sia-tech-blog/static/js/787.d8284650.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cfa7fabb.js"
+    "static/js/main.248b0f6d.js"
   ]
 }
